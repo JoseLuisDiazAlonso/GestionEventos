@@ -35,7 +35,7 @@ Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
 
 **1.Clonar el repositorio**
 
-git clone 
+git clone https://github.com/JoseLuisDiazAlonso/GestionEventos.git
 
 cd tu-repositorio
 
